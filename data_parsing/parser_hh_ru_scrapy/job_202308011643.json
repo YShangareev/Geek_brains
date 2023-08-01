@@ -1,0 +1,3144 @@
+{
+"job": [
+	{
+		"id" : 1,
+		"name" : "Data scientist (кредитный скоринг)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83104723?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 2,
+		"name" : "Data Scientist в команду поиска и рекомендаций",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84262396?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 3,
+		"name" : "Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84271164?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 4,
+		"name" : "Аналитик данных \/ Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/77725684?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 5,
+		"name" : "Data Scientist \/ ML Engineer (Middle+)",
+		"min_salary" : 180000,
+		"max_salary" : 260000,
+		"currency" : "₽",
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81489620?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 6,
+		"name" : "Эконометрист\/Data scientist (Junior\/Middle) в консалтинг",
+		"min_salary" : 40000,
+		"max_salary" : null,
+		"currency" : "₽",
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82227099?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 7,
+		"name" : "Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84275246?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 8,
+		"name" : "Data Scientist (middle\/senior)",
+		"min_salary" : null,
+		"max_salary" : 450000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/70163749?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 9,
+		"name" : "Data Scientist (Predict)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84261146?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 10,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83376068?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 11,
+		"name" : "Data scientist (Антифрод)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81771371?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 12,
+		"name" : "Data-Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83293320?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 13,
+		"name" : "Data Scientist\/Аналитик данных",
+		"min_salary" : 120000,
+		"max_salary" : 190000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81456987?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 14,
+		"name" : "Data Scientist (middle)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84327829?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 15,
+		"name" : "Data Scientist Generative AI",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84086552?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 16,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : 150000,
+		"currency" : "₽",
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84306668?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 17,
+		"name" : "Data Scientist (CoreML + RecSys)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82791945?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 18,
+		"name" : "Data Scientist – Computer Vision",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83954464?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 19,
+		"name" : "Data Scientist (модели Collection)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82417734?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 20,
+		"name" : "Junior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83964034?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 21,
+		"name" : "Data Scientist в блок Финансы",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84357812?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 22,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84212178?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 23,
+		"name" : "Data scientist (Ценообразование)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/76974214?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 24,
+		"name" : "Data Scientist (Computer Vision)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84356575?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 25,
+		"name" : "Data Analyst\/Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83284986?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 26,
+		"name" : "Junior Data Scientist (NLP)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84026782?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 27,
+		"name" : "Lead Data Scientist",
+		"min_salary" : null,
+		"max_salary" : 470000,
+		"currency" : "₽",
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81856616?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 28,
+		"name" : "Junior+\/Middle Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84077734?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 29,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84200958?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 30,
+		"name" : "Senior\/middle data scientist (возможен удаленный формат)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83782073?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 31,
+		"name" : "Data Scientist (NLP)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84344616?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 32,
+		"name" : "Data инженер",
+		"min_salary" : null,
+		"max_salary" : 350000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83746382?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 33,
+		"name" : "Инженер \/ Data Scientist",
+		"min_salary" : 98000,
+		"max_salary" : 98000,
+		"currency" : "₽",
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83732684?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 34,
+		"name" : "Data Scientist (Python)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84221557?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 35,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82993212?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 36,
+		"name" : "Data Scientist (Лента онлайн)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81952814?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 37,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83611254?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 38,
+		"name" : "Middle Data Scientist",
+		"min_salary" : 120000,
+		"max_salary" : 250000,
+		"currency" : "₽",
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82977137?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 39,
+		"name" : "Lead AI Data Scientist",
+		"min_salary" : null,
+		"max_salary" : 8000,
+		"currency" : "$",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84163197?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 40,
+		"name" : "Data Scientist middle+\/Senior",
+		"min_salary" : 250000,
+		"max_salary" : 380000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84255351?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 41,
+		"name" : "Data Scientist (Прогнозирование)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81118017?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 42,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83936864?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 43,
+		"name" : "Senior Data Scientist (R&D, задачи оптимизации)",
+		"min_salary" : null,
+		"max_salary" : 400000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/80654779?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 44,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82841754?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 45,
+		"name" : "Старший Data Scientist в команду поиска и рекомендаций",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84261597?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 46,
+		"name" : "Data Scientist в Антифрод",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84080022?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 47,
+		"name" : "Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82435389?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 48,
+		"name" : "Разработчик скоринговых моделей\/Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83934264?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 49,
+		"name" : "Middle Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82761857?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 50,
+		"name" : "Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83209990?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 51,
+		"name" : "Старший Data Scientist, Маркетплейс, Сервисы обработки текстов",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84249907?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 52,
+		"name" : "Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79950324?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 53,
+		"name" : "Middle+\/Senior Data Scientist в Блок Финансы",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84358264?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 54,
+		"name" : "Middle Data Scientist (СV) \/ Computer Vision Engineer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82918783?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 55,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83709331?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 56,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81464653?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 57,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82540806?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 58,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83932486?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 59,
+		"name" : "Data scientist (нестандартные ML-модели)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83808762?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 60,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79811721?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 61,
+		"name" : "Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83695664?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 62,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83746192?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 63,
+		"name" : "Senior data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83233301?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 64,
+		"name" : "Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84063411?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 65,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82682774?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 66,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83731556?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 67,
+		"name" : "Chief Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84121858?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 68,
+		"name" : "Senior data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84279216?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 69,
+		"name" : "Senior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83076435?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 70,
+		"name" : "Data Scientist в команду NLP",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84021137?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 71,
+		"name" : "Data Scientist (Middle\\Middle+)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83073814?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 72,
+		"name" : "Senior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83602608?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 73,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79720387?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 74,
+		"name" : "Middle\/Senior Data Scientist (скоринговые модели)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83724600?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 75,
+		"name" : "Data Scientist (Геоаналитика)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83335062?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 76,
+		"name" : "Senior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84263849?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 77,
+		"name" : "Junior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82174408?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 78,
+		"name" : "Data Scientist (Центр валидации моделей КИБ)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84350836?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 79,
+		"name" : "Middle\/Senior Data Scientist Pricing",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83362318?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 80,
+		"name" : "Data Scientist (команда Поиска)",
+		"min_salary" : 350000,
+		"max_salary" : null,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83116089?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 81,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83802983?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 82,
+		"name" : "Senior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82633532?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 83,
+		"name" : "Senior Data scientist (Computer Vision)",
+		"min_salary" : 150000,
+		"max_salary" : null,
+		"currency" : "₽",
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83580893?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 84,
+		"name" : "Data Scientist \/ ML-инженер (Big Data)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83941402?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 85,
+		"name" : "Middle Data Scientist Модели CRM",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84123815?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 86,
+		"name" : "ИТ-валидатор (Data scientist)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82917785?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 87,
+		"name" : "Data Scientist \/ Developer (Middle \/ Senior)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84015149?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 88,
+		"name" : "Data Engineer \/ Data Scientist (Клиентская аналитика)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82748315?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 89,
+		"name" : "Lead Data Scientist в R&D-команду логистики Маркета",
+		"min_salary" : 400000,
+		"max_salary" : 650000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83441997?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 90,
+		"name" : "Data Scientist, Ozon Fintech",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82184176?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 91,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83722639?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 92,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81057983?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 93,
+		"name" : "Data Scientist (Pricing)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82138061?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 94,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/76461371?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 95,
+		"name" : "Data Scientist в Блок Риски",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83949802?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 96,
+		"name" : "Аналитик данных \/ Data Scientist (middle+)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81311165?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 97,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83272352?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 98,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/80232010?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 99,
+		"name" : "Senior Data Scientist в направление продвинутой аналитики домена Operations",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83980447?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 100,
+		"name" : "Data Scientist NLP\/Time Seriese",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83640671?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 101,
+		"name" : "Data scientist в Центр искусственного интеллекта Сбера",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83375369?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 102,
+		"name" : "Data Scientist (Middle)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/78959208?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 103,
+		"name" : "Middle Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83989380?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 104,
+		"name" : "Data Scientist (Кампании продаж)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83961792?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 105,
+		"name" : "Data Scientist ( Аналитик данных )",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83682555?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 106,
+		"name" : "Senior Data Scientist (NLP, PLP)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81314083?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 107,
+		"name" : "Data Scientist (Блок риски)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83402949?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 108,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82162243?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 109,
+		"name" : "Middle \/ Senior data scientist (NLP)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82628451?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 110,
+		"name" : "Middle \/ Junior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83276427?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 111,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : 320000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83435724?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 112,
+		"name" : "Senior Data Scientist в Блок Риски",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84155722?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 113,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84052825?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 114,
+		"name" : "Middle\/Senior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84044853?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 115,
+		"name" : "Middle Data Scientist в команду моделирования партнерств и ИТ - процессов",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84080724?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 116,
+		"name" : "Data Scientist R&D",
+		"min_salary" : 150000,
+		"max_salary" : 300000,
+		"currency" : "₽",
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81854583?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 117,
+		"name" : "Data Scientist (Sber Campaigning)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81263444?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 118,
+		"name" : "Senior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82213529?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 119,
+		"name" : "Lead data scientist (Анализ цены и Trade in)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/76954383?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 120,
+		"name" : "Senior Data Scientist в команду SME Chat",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81312951?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 121,
+		"name" : "Data scientist (Оптимизация логистики)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83453439?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 122,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83541534?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 123,
+		"name" : "Senior Data Scientist NLP",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84007142?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 124,
+		"name" : "Data Scientist (Динамическое ценообразование)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83288285?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 125,
+		"name" : "Специалист по машинному обучению и анализу данных \/ Data Scientist (Middle)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/78618131?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 126,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83229724?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 127,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83801080?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 128,
+		"name" : "Data engineer\/Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81963963?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 129,
+		"name" : "Lead Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81326729?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 130,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81868570?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 131,
+		"name" : "Data Scientist (Реклама и Медиа)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83455292?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 132,
+		"name" : "Data Scientist (Синтез речи)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/76391976?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 133,
+		"name" : "Data Scientist (Массовый высокодоходный сегмент)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83797250?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 134,
+		"name" : "Data Scientist в b2c направление",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84009554?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 135,
+		"name" : "Data Scientist\/ML (команда System Team)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/80805489?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 136,
+		"name" : "Senior Data Scientist \/ Математик",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/77799312?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 137,
+		"name" : "Lead Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82992190?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 138,
+		"name" : "Data Scientist в SberData",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83448921?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 139,
+		"name" : "Senior Data Scientist в центр фундаментальных исследований (AI Lab)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83385121?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 140,
+		"name" : "Data Scientist (главный исследователь данных Управления развития клиентской базы)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82172175?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 141,
+		"name" : "Ведущий Data Scientist, Ранжирование поиска",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/67411146?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 142,
+		"name" : "Middle Data Scientist Sber AI (NLP)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82913864?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 143,
+		"name" : "Data Scientist (Единая контактная политика с клиентами банка)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83451553?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 144,
+		"name" : "Data Scientist NLP",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83351440?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 145,
+		"name" : "Data Scientist (NLP, NER)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83153729?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 146,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83436498?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 147,
+		"name" : "Data Scientist Управления модельных рисков и валидации",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83360750?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 148,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79304757?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 149,
+		"name" : "Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83594280?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 150,
+		"name" : "Data scientist (СберБизнесБот)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83454163?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 151,
+		"name" : "Data Scientist в R&D-команду SupportAI",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83084971?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 152,
+		"name" : "Ведущий Data Scientist",
+		"min_salary" : 250000,
+		"max_salary" : null,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79534236?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 153,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83274323?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 154,
+		"name" : "Data scientist NLP (middle)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83238281?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 155,
+		"name" : "Ведущий Data Scientist (NLP), Базовое ранжирование",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/80408226?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 156,
+		"name" : "Data Engineer\/Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83550970?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 157,
+		"name" : "Middle Data Scientist \/ Научный сотрудник в группу New Materials Design",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83047245?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 158,
+		"name" : "Data scientist (computer vision)",
+		"min_salary" : 200000,
+		"max_salary" : null,
+		"currency" : "₽",
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83216572?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 159,
+		"name" : "Data scientist\/Math developer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83552146?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 160,
+		"name" : "Data Scientist (NLP)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79927092?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 161,
+		"name" : "Lead Data Scientist в SberNBA",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83605463?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 162,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83286591?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 163,
+		"name" : "Senior Data Scientist (Ads Platform)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83563343?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 164,
+		"name" : "Старший Data Scientist, Товарные рекомендации",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82246340?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 165,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82918125?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 166,
+		"name" : "Data scientist (RnD в Центр валидации моделей КИБ)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82994350?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 167,
+		"name" : "Middle Data Scientist NLP (Маркетплейс)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82898956?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 168,
+		"name" : "Data Scientist middle\/senior",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82893426?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 169,
+		"name" : "Data scientist (Персональная скидка)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81297647?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 170,
+		"name" : "Middle\/Senior Data Scientist (Эмбеддинги)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81524138?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 171,
+		"name" : "Data Scientist (Рекомендательная система)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/80317279?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 172,
+		"name" : "Middle Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83354591?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 173,
+		"name" : "Data Scientist (Middle)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81543934?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 174,
+		"name" : "Data scientist \/ Аналитик риск-моделей",
+		"min_salary" : 120000,
+		"max_salary" : 300000,
+		"currency" : "₽",
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82908474?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 175,
+		"name" : "Head Data Scientist",
+		"min_salary" : 350000,
+		"max_salary" : null,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82903246?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 176,
+		"name" : "Chief Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83298175?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 177,
+		"name" : "Senior Data Scientist (NLP)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/80282746?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 178,
+		"name" : "Data Scientist (middle+)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82993734?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 179,
+		"name" : "Senior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79041835?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 180,
+		"name" : "Lead Data Scientist NLP",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83155962?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 181,
+		"name" : "Lead Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79258367?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 182,
+		"name" : "Senior Data Scientist \/ ML Engineer (CV-алгоритмы)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83286664?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 183,
+		"name" : "Senior Data Scientist в Финуслуги",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83333556?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 184,
+		"name" : "Data Scientist – Senior\/Chief",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83358213?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 185,
+		"name" : "Senior Data Scientist (ML разработчик)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82936981?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 186,
+		"name" : "Senior Data Scientist (ChatGPT\/Operations)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83165316?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 187,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79830140?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 188,
+		"name" : "Team Lead Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83291550?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 189,
+		"name" : "Senior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83223312?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 190,
+		"name" : "Middle+ Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83357855?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 191,
+		"name" : "Senior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83340825?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 192,
+		"name" : "Ведущий Data Scientist (Deep Learning), Рекомендации и персонализация",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81300397?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 193,
+		"name" : "Data Scientist senior",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83358230?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 194,
+		"name" : "Middle Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83181947?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 195,
+		"name" : "Data Scientist (Senior)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82734450?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 196,
+		"name" : "Middle Data Scientist (Маркетплейс)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81522843?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 197,
+		"name" : "Data Scientist c опытом разработки и обучения NLP\/ NLU",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83380110?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 198,
+		"name" : "Data scientist (Управление скоринга и Биг Дата)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82934170?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 199,
+		"name" : "Senior Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82791964?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 200,
+		"name" : "Data Scientist (автор курса)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83761742?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 201,
+		"name" : "Junior Bioinformatics scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84359568?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 202,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82936085?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 203,
+		"name" : "Data Scientist (Хаб юр.лиц)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82921710?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 204,
+		"name" : "Data Scientist, Маркетплейс, Антибот",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82923962?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 205,
+		"name" : "Data scientist (Middle)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83526402?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 206,
+		"name" : "Data Scientist в команду CVM AI",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82435811?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 207,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82848765?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 208,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81724946?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 209,
+		"name" : "Junior data scientist (Центр валидации моделей сервисных блоков и экосистемы)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83932788?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 210,
+		"name" : "Data Scientist (Junior)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83451191?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 211,
+		"name" : "Junior Data Scientist (стажер)",
+		"min_salary" : 50000,
+		"max_salary" : null,
+		"currency" : "₽",
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83902101?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 212,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82421287?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 213,
+		"name" : "Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84213723?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 214,
+		"name" : "72",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84294782?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 215,
+		"name" : "Junior Data Scientist (Специалист по анализу данных)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84046041?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 216,
+		"name" : "Data Analyst (DA)\/Data Engineer(DE)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83239666?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 217,
+		"name" : "Senior Data Science",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84052865?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 218,
+		"name" : "Проджект-менеджер \/ Системный-аналитик в ИТ-продукт",
+		"min_salary" : 40000,
+		"max_salary" : null,
+		"currency" : "₽",
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82157453?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 219,
+		"name" : "Data Engineer (Middle)",
+		"min_salary" : null,
+		"max_salary" : 300000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83411747?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 220,
+		"name" : "Руководитель направления машинного обучения\/Machine learning senior engineer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82420735?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 221,
+		"name" : "Head of Risk (Asia)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83138143?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 222,
+		"name" : "Старший аналитик медиаинвестиций",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82945889?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 223,
+		"name" : "Senior bioinformatics scientist (to Yerevan)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84057265?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 224,
+		"name" : "Senior Python Developer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/80803272?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 225,
+		"name" : "Data Engineer (Senior)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83814361?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 226,
+		"name" : "Спикер на курс «Data Engineer»",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84271404?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 227,
+		"name" : "Senior Bioinformatician Scientist and Team Lead",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83082763?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 228,
+		"name" : "Бизнес-аналитик (Data Science направление)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84254640?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 229,
+		"name" : "Системный администратор",
+		"min_salary" : null,
+		"max_salary" : 230000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83946299?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 230,
+		"name" : "Data Scientist (модели кредитного риска)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79466929?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 231,
+		"name" : "Senior Data Scientist (Дивизион развития цифрового профиля клиента)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82988515?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 232,
+		"name" : "Data scientist (Валидатор моделей банковской и торговой книг)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84284006?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 233,
+		"name" : "Junior Data scientist (Валидатор моделей банковской и торговой книг)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84283924?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 234,
+		"name" : "Исследователь\/Research Scientist (Computer Science)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/76662887?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 235,
+		"name" : "Middle Data Scientist (Дивизион развития цифрового профиля клиента)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82988759?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 236,
+		"name" : "Data Science",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82929509?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 237,
+		"name" : "Data Analyst",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81971249?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 238,
+		"name" : "Data engineer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84023479?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 239,
+		"name" : "Senior Data Scientist (Логистика)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81517107?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 240,
+		"name" : "Senior Data Scientist (NLP)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/80950237?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 241,
+		"name" : "Senior\/Lead Data Engineer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83241782?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 242,
+		"name" : "Продуктовый аналитик (Управление \"Развитие пакетов услуг и подписок\")",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84087000?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 243,
+		"name" : "Автор курса «Линейные модели для задач регрессии и классификации (базовый ML)»",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84109671?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 244,
+		"name" : "Младший разработчик Python, Маркетплейс, Стенды метрик",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84145507?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 245,
+		"name" : "Senior Data Scientist (разработка Скоринговых моделей)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/73751357?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 246,
+		"name" : "Senior Data Scientist\/ML Engineer (команда SmartSearch)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/67924416?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 247,
+		"name" : "Client Consultant (FMCG sector)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79421796?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 248,
+		"name" : "Менеджер по продажам курсов в сфере IT и Digital в Synergy Academy",
+		"min_salary" : 70000,
+		"max_salary" : 100000,
+		"currency" : "₽",
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/80211386?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 249,
+		"name" : "Портфельный риск-аналитик \/ Middle Data Scientist (модели кредитного риска)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82421077?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 250,
+		"name" : "Data Scientist в Управление моделирования ALM и рыночных рисков",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84213567?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 251,
+		"name" : "Маркетолог- аналитик",
+		"min_salary" : 101500,
+		"max_salary" : null,
+		"currency" : "₽",
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84010387?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 252,
+		"name" : "IT Рекрутер",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83230919?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 253,
+		"name" : "Бизнес-аналитик (Кредитование ЮЛ)",
+		"min_salary" : 240000,
+		"max_salary" : 280000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83675341?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 254,
+		"name" : "Менеджер проектов продвинутой аналитики",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83965250?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 255,
+		"name" : "Директор по рискам (Азия)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83951352?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 256,
+		"name" : "Senior C++ Developer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84311443?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 257,
+		"name" : "Аналитик данных (Data Scientist)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83679681?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 258,
+		"name" : "Senior Data Scientist (проект Customer Value Managnent)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83670409?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 259,
+		"name" : "Старший ML-инженер (Кредитный скоринг)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82192275?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 260,
+		"name" : "ECommerce Senior Data Engineer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83739608?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 261,
+		"name" : "Team Lead Data-science",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83759378?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 262,
+		"name" : "Senior data scientist (разработка моделей для казначейства и рыночных рисков)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/72127423?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 263,
+		"name" : "Аналитик данных отдела исследований клиентского опыта",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/78181417?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 264,
+		"name" : "Data scientist, проекты по разработке симуляционных моделей, моделей оценки стресс-тестирования",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79906988?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 265,
+		"name" : "Аналитик скоринга \/ Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83811538?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 266,
+		"name" : "Senior Machine Learning Engineer (Ташкент)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82269355?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 267,
+		"name" : "Руководитель команды прогноза спроса, Маркетплес, Доставка",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83921794?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 268,
+		"name" : "Системный аналитик",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83942755?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 269,
+		"name" : "Computer Vision engineer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83965075?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 270,
+		"name" : "Junior data Engineer (Greenplum)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82527518?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 271,
+		"name" : "Senior Data Scientist (Валидация моделей кредитного риска КИБ)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83994317?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 272,
+		"name" : "Data Scientist (Центр валидации моделей сервисных блоков и экосистемы)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83990491?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 273,
+		"name" : "Lead Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84044828?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 274,
+		"name" : "Middle\/Senior Data Analyst\/Дата аналитик",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84064149?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 275,
+		"name" : "Data scientist (Департамент развития отношений с клиентами)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84074934?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 276,
+		"name" : "Data Scientist (Департамент розничных рисков)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84072616?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 277,
+		"name" : "Бизнес-аналитик (Управление рисками)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84257611?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 278,
+		"name" : "Senior Python backend developer (ComplexML)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/84259531?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 279,
+		"name" : "Старший аналитик данных в CRM (Отдел анализа эффективности некредитного направления)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79265227?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 280,
+		"name" : "Бизнес-аналитик (Управление рисками МСБ)",
+		"min_salary" : null,
+		"max_salary" : 270000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82258513?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 281,
+		"name" : "Старший разработчик Java, Верхний поиск",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82309088?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 282,
+		"name" : "Стажёр - Data scientist, Группа разработки Товарные рекомендации, Поиск, рекомендации, реклама",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83446624?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 283,
+		"name" : "TechLead Research Engineer (NLP\/Speech)",
+		"min_salary" : 300000,
+		"max_salary" : 400000,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81198058?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 284,
+		"name" : "Ведущий инженер по автоматизации тестирования, Ранжирование поиска",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82548565?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 285,
+		"name" : "Business Analyst (Serbia)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83528789?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 286,
+		"name" : "Бизнес-аналитик (Управление \"Клиент 360\")",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83540759?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 287,
+		"name" : "Junior Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83530434?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 288,
+		"name" : "Старший Data Scientist, Эффективность рекламы",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82307386?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 289,
+		"name" : "Research Engineer",
+		"min_salary" : 3500,
+		"max_salary" : null,
+		"currency" : "$",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83573506?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 290,
+		"name" : "Бизнес-аналитик",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83636121?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 291,
+		"name" : "ML-инженер (OCR\/NLP\/ML)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83549232?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 292,
+		"name" : "Data Engineer направления разработки витрин данных",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/78843112?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 293,
+		"name" : "Data Engineer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83222207?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 294,
+		"name" : "Python Team Lead",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83643644?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 295,
+		"name" : "Quant \/ Data Scientist (Руководитель направления Управление рисками)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/72740316?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 296,
+		"name" : "Data scientist\/ Эконометрист\/ Price - аналитик",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79095440?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 297,
+		"name" : "Midde Data Scientist (команда Персонализации коммуникаций от потребности клиента)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83238611?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 298,
+		"name" : "Data Scientist \"Прогнозирование спроса\"",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83256682?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 299,
+		"name" : "Digital Manager",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83431115?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 300,
+		"name" : "Machine Learning Team Lead",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83321373?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 301,
+		"name" : "Автор курса \"Линейная алгебра\"",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83360933?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 302,
+		"name" : "Team lead \\ Senior Data Scientist (команда перспективных алгоритмов машинного обучения)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82468629?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 303,
+		"name" : "Study Safety Physician (Clinical Development Scientist)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83327831?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 304,
+		"name" : "Data Engineer в команду Operational DWH",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83387955?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 305,
+		"name" : "Дата-сайентист Middle+\/Senior Data Scientist",
+		"min_salary" : 200000,
+		"max_salary" : null,
+		"currency" : "₽",
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83340376?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 306,
+		"name" : "Machine Learning Engineer \/ Data Scientist (Python, Middle)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83346890?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 307,
+		"name" : "Lead Data Scientist (Operations)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81954360?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 308,
+		"name" : "Senior Data Scientist (Северсталь Диджитал)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81883278?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 309,
+		"name" : "Data-аналитик",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81843695?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 310,
+		"name" : "Senior Machine Learning Engineer",
+		"min_salary" : 4500,
+		"max_salary" : null,
+		"currency" : "€",
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83385149?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 311,
+		"name" : "Математик-Программист \/ Applied Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83412446?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 312,
+		"name" : "ML-инженер",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81938637?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 313,
+		"name" : "Machine Learning",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/79927246?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 314,
+		"name" : "Team Lead Data Scientist (Прогнозирование спроса)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83454576?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 315,
+		"name" : "Экономист-аналитик (junior\/middle data scientist)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82624745?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 316,
+		"name" : "Senior Data Scientist [команда Поиска]",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/77471619?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 317,
+		"name" : "Senior Data Scientist (Rec. system)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83646227?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 318,
+		"name" : "Petroleum Engineer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83749493?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 319,
+		"name" : "ML-инженер",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83699694?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 320,
+		"name" : "Data Scientist в Департамент моделирования корпоративных и финансовых рисков",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83700578?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 321,
+		"name" : "ModelOps specialist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81564805?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 322,
+		"name" : "Team lead Data scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "более 6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82967916?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 323,
+		"name" : "ML engineer \/ Data engineer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82973036?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 324,
+		"name" : "EData Delivery Analyst",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83011653?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 325,
+		"name" : "Middle MLOps Engineer (Python Developer)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83110431?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 326,
+		"name" : "Ведущий эксперт по интеллектуальному анализу данных",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81843886?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 327,
+		"name" : "Data Scientist (Corporate Credit Risk)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83087392?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 328,
+		"name" : "Senior Data scientist (RnD в Центр валидации моделей КИБ)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83069369?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 329,
+		"name" : "Data Engineer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83140463?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 330,
+		"name" : "System Analyst (Супермаркет Данных)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83217488?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 331,
+		"name" : "Старший менеджер продукта (Supply \/ Demand баланс)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83245542?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 332,
+		"name" : "Старший владелец продукта CVM",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83291178?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 333,
+		"name" : "Управляющий директор \\ Data Scientist (Сопровождение процесса разработки и использования моделей)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/78465611?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 334,
+		"name" : "Владелец продукта (продукты Data Science)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81921105?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 335,
+		"name" : "Data Scientist (сопровождение процесса разработки и использования моделей)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/70903553?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 336,
+		"name" : "Junior Data Scientist (сопровождение процесса разработки и использования моделей)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/77907673?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 337,
+		"name" : "Technical product manager в риск-технологии",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82957220?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 338,
+		"name" : "MLops engineer (DSML Платформа)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82937058?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 339,
+		"name" : "Senior DS Computer Vision engineer",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82893959?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 340,
+		"name" : "Senior Data scientist (Управление рисками корпоративных клиентов)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82917833?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 341,
+		"name" : "Data scientist (Управление рисками корпоративных клиентов)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82917803?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 342,
+		"name" : "Data Scientist, Маркетплейс, Контент и товары",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "1–3 года",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82931697?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 343,
+		"name" : "Senior QA Engineer (manual)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81616440?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 344,
+		"name" : "Team Lead Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82902908?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 345,
+		"name" : "Стажер Data Scientist (Центр моделирования интегрированного риск-менеджмента)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "не требуется",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/82934771?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 346,
+		"name" : "Senior NLP Data Scientist (команда SberCare.Боты)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83213511?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 347,
+		"name" : "Senior\/Lead Data Scientist",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/83213672?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 348,
+		"name" : "Senior Data Scientist \/ Machine Learning Engineer (Audio)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81868724?from=vacancy_search_list&query=data+scientist"
+	},
+	{
+		"id" : 349,
+		"name" : "Senior Data Scientist\/Machine Learning Engineer (СV\/NLP\/Audio)",
+		"min_salary" : null,
+		"max_salary" : null,
+		"currency" : null,
+		"experience" : "3–6 лет",
+		"url" : "https:\/\/ufa.hh.ru\/vacancy\/81868771?from=vacancy_search_list&query=data+scientist"
+	}
+]}
